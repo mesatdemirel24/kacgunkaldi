@@ -1,0 +1,17 @@
+{
+  "name": "Kaç gün kaldı?",
+  "short_name": "Kaç gün?",
+  "description": "Etkinliklerine kalan günleri sayar.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1330",
+  "theme_color": "#151a3a",
+  "lang": "tr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
